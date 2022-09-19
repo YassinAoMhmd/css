@@ -1,0 +1,19 @@
+.odd{
+    color: white;
+    background-color: rgb(231, 125, 125);
+    font-size: 15px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddAdd{
+    font-size: 24px;
+}
+
+#extraUnique{
+    background-color: rgb(159, 238, 159);
+}
